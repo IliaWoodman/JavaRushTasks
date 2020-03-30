@@ -1,7 +1,7 @@
 package com.javarush.task.task13.task1310;
 
-/* 
-Это кто там такой умный? ////
+/*  /////qweqweqweqwe
+Это кто там такой умный?
 */
 
 public class Solution {
