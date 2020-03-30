@@ -1,7 +1,7 @@
 package com.javarush.task.task13.task1310;
 
 /*
-Это кто там такой умный?
+Это кто там такой умный? after commit 18.43
 */
 
 public class Solution {
