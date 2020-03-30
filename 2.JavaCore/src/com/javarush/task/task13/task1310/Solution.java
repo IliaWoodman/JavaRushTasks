@@ -1,6 +1,6 @@
 package com.javarush.task.task13.task1310;
 
-/*  /////qweqweqweqwe
+/*
 Это кто там такой умный?
 */
 
@@ -8,28 +8,28 @@ public class Solution {
     public static void main(String[] args) throws Exception {
     }
 
-    interface Person   { ///////////
+    interface Person   {
         void use(Person person);
 
         void startToWork();
     }
 
-    interface Workable  { //////////////
+    interface Workable  {
         boolean wantsToGetExtraWork();
     }
 
-    interface Secretary extends Person { ///////////////////
+    interface Secretary extends Person {
     }
 
-    interface Boss extends Person, Workable {///////////////
+    interface Boss extends Person, Workable {
     }
 
-    class CleverMan implements Boss{ /////////////////////////////////////////////////////////////
+    class CleverMan implements Boss{
         public void use(Person person) {
             person.startToWork();
         }
 
-        public void startToWork() { //
+        public void startToWork() {
         }
 
         public boolean wantsToGetExtraWork() {
@@ -37,7 +37,7 @@ public class Solution {
         }
     }
 
-    class SmartGirl implements Secretary{ //////////////////////////////////////////////////////////
+    class SmartGirl implements Secretary{
         public void use(Person person) {
         }
 
