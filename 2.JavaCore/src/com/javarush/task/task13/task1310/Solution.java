@@ -1,7 +1,7 @@
 package com.javarush.task.task13.task1310;
 
 /* 
-Это кто там такой умный?
+Это кто там такой умный? ////
 */
 
 public class Solution {
@@ -29,7 +29,7 @@ public class Solution {
             person.startToWork();
         }
 
-        public void startToWork() {
+        public void startToWork() { //
         }
 
         public boolean wantsToGetExtraWork() {
