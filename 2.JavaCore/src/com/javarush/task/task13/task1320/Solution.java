@@ -17,7 +17,7 @@ public class Solution {
         DBObject initializeIdAndName(long id, String name);
     }
 
-    static class User implements DBObject {
+    static class User implements DBObject{
         long id;
         String name;
 
@@ -27,9 +27,9 @@ public class Solution {
         }
 
         @Override
-        public DBObject initializeIdAndName(long id, String name) {
-            this.id = id;
+        public User initializeIdAndName(long id, String name) {
             this.name = name;
+            this.id = id;
             return this;
         }
     }
