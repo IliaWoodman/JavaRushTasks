@@ -17966,3 +17966,696 @@
 2020-04-06 20:01:25 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 405
 2020-04-06 20:01:55 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 405
 2020-04-06 20:02:55 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 405
+2020-04-06 20:04:11 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-06 20:05:25 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 405
+2020-04-06 20:05:55 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-06 20:06:45 WARN  ValidateButton.isServerAvailable(78) - The server is unavailable. Wait a little, restart IntelliJ IDEA and try again.
+2020-04-06 20:06:55 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 405
+2020-04-06 20:07:04 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 503
+2020-04-06 20:07:04 ERROR PluginUtil.isPluginNeedUpdate(483) - Error while verifying the version of the plugin. : com.fasterxml.jackson.core.JsonParseException
+2020-04-06 20:07:05 INFO  ApacheHttpClient.getTask(480) - responseCode = 503
+2020-04-06 20:07:05 ERROR ApacheHttpClient.getTask(484) - Error while downloading the task. Be sure you have a network connection and try again. : com.fasterxml.jackson.databind.exc.InvalidFormatException
+2020-04-06 20:07:05 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-06 20:07:05 INFO  ApacheHttpClient.completed(28) - responseCode = 405
+2020-04-06 20:07:05 ERROR TaskCompleted.run(133) - Error during task verification!
+
+ StatusCode: 405 Not Allowed : com.fasterxml.jackson.core.JsonParseException
+2020-04-06 20:07:52 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 503
+2020-04-06 20:07:52 ERROR PluginUtil.isPluginNeedUpdate(483) - Error while verifying the version of the plugin. : com.fasterxml.jackson.core.JsonParseException
+2020-04-06 20:07:52 INFO  ApacheHttpClient.completed(28) - responseCode = 405
+2020-04-06 20:07:52 INFO  ApacheHttpClient.getTask(480) - responseCode = 503
+2020-04-06 20:07:52 ERROR ApacheHttpClient.getTask(484) - Error while downloading the task. Be sure you have a network connection and try again. : com.fasterxml.jackson.databind.exc.InvalidFormatException
+2020-04-06 20:07:52 ERROR TaskCompleted.run(133) - Error during task verification!
+
+ StatusCode: 405 Not Allowed : com.fasterxml.jackson.core.JsonParseException
+2020-04-06 20:07:52 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-06 20:07:55 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 405
+2020-04-06 20:08:05 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 503
+2020-04-06 20:08:05 ERROR PluginUtil.isPluginNeedUpdate(483) - Error while verifying the version of the plugin. : com.fasterxml.jackson.core.JsonParseException
+2020-04-06 20:08:05 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 503
+2020-04-06 20:08:05 ERROR ApacheHttpClient.getFilteredTasks(338) - Error while retrieving the task list. Be sure you have a network connection and try again. : com.fasterxml.jackson.databind.exc.MismatchedInputException
+2020-04-06 20:08:05 WARN  TheNewTaskChooserDialog.<init>(65) - You can't display the task list, since it is null.
+2020-04-06 20:08:21 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 503
+2020-04-06 20:08:21 ERROR PluginUtil.isPluginNeedUpdate(483) - Error while verifying the version of the plugin. : com.fasterxml.jackson.core.JsonParseException
+2020-04-06 20:08:21 INFO  ApacheHttpClient.getTask(480) - responseCode = 503
+2020-04-06 20:08:21 INFO  ApacheHttpClient.completed(28) - responseCode = 405
+2020-04-06 20:08:21 ERROR ApacheHttpClient.getTask(484) - Error while downloading the task. Be sure you have a network connection and try again. : com.fasterxml.jackson.databind.exc.InvalidFormatException
+2020-04-06 20:08:22 ERROR TaskCompleted.run(133) - Error during task verification!
+
+ StatusCode: 405 Not Allowed : com.fasterxml.jackson.core.JsonParseException
+2020-04-06 20:08:22 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-06 20:09:36 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 405
+2020-04-06 20:09:38 WARN  ValidateButton.isServerAvailable(78) - The server is unavailable. Wait a little, restart IntelliJ IDEA and try again.
+2020-04-06 20:09:58 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-06 20:11:02 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 405
+2020-04-06 20:11:55 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 405
+2020-04-06 20:12:03 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 503
+2020-04-06 20:12:03 ERROR PluginUtil.isPluginNeedUpdate(483) - Error while verifying the version of the plugin. : com.fasterxml.jackson.core.JsonParseException
+2020-04-06 20:12:03 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-06 20:12:03 INFO  ApacheHttpClient.completed(28) - responseCode = 405
+2020-04-06 20:12:03 INFO  ApacheHttpClient.getTask(480) - responseCode = 503
+2020-04-06 20:12:03 ERROR ApacheHttpClient.getTask(484) - Error while downloading the task. Be sure you have a network connection and try again. : com.fasterxml.jackson.databind.exc.InvalidFormatException
+2020-04-06 20:12:03 ERROR TaskCompleted.run(133) - Error during task verification!
+
+ StatusCode: 405 Not Allowed : com.fasterxml.jackson.core.JsonParseException
+2020-04-06 20:12:24 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-06 20:12:25 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-06 20:12:25 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-06 20:12:25 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2020-04-06 20:13:11 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-06 20:13:56 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 405
+2020-04-06 20:14:55 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-06 20:15:31 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 503
+2020-04-06 20:15:31 ERROR PluginUtil.isPluginNeedUpdate(483) - Error while verifying the version of the plugin. : com.fasterxml.jackson.core.JsonParseException
+2020-04-06 20:15:31 INFO  ApacheHttpClient.getTask(480) - responseCode = 503
+2020-04-06 20:15:31 ERROR ApacheHttpClient.getTask(484) - Error while downloading the task. Be sure you have a network connection and try again. : com.fasterxml.jackson.databind.exc.InvalidFormatException
+2020-04-06 20:15:55 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-06 20:16:56 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-06 20:16:58 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-06 20:16:59 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-06 20:17:00 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-06 20:17:00 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2020-04-06 20:17:57 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-06 20:17:58 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-06 20:18:03 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-06 20:19:26 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 405
+2020-04-06 20:19:57 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-06 20:19:58 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-06 20:20:27 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 405
+2020-04-06 20:20:28 INFO  ApacheHttpClient.getTask(480) - responseCode = 503
+2020-04-06 20:20:28 ERROR ApacheHttpClient.getTask(484) - Error while downloading the task. Be sure you have a network connection and try again. : com.fasterxml.jackson.databind.exc.InvalidFormatException
+2020-04-06 20:20:30 INFO  ApacheHttpClient.completed(28) - responseCode = 405
+2020-04-06 20:20:30 ERROR TaskCompleted.run(133) - Error during task verification!
+
+ StatusCode: 405 Not Allowed : com.fasterxml.jackson.core.JsonParseException
+2020-04-06 20:20:56 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-06 20:22:00 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-06 20:22:02 WARN  ValidateButton.isServerAvailable(78) - The server is unavailable. Wait a little, restart IntelliJ IDEA and try again.
+2020-04-06 20:22:30 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-06 20:22:32 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2020-04-06 20:22:33 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-06 20:22:33 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-06 20:22:34 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-06 20:22:49 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-06 20:22:50 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 200
+2020-04-06 20:22:56 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-06 20:23:26 INFO  ApacheHttpClient.getTaskTemplateInfo(350) - responseCode = 503
+2020-04-06 20:23:26 ERROR ApacheHttpClient.getTaskTemplateInfo(361) - Error while downloading the code template. Be sure you have a network connection and try again. : com.fasterxml.jackson.databind.exc.InvalidFormatException
+2020-04-06 20:23:26 INFO  ApacheHttpClient.getTaskTemplateInfo(350) - responseCode = 200
+2020-04-06 20:23:31 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-06 20:23:55 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-06 20:24:52 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2020-04-06 20:25:09 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-06 20:25:13 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-06 20:25:16 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-06 20:25:24 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-06 20:25:26 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-06 20:25:29 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-06 20:25:31 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-06 20:25:32 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-06 20:25:33 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-06 20:25:35 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-06 20:25:37 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-08 17:12:59 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2020-04-08 17:12:59 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.38 ----------
+
+2020-04-08 17:12:59 INFO  ApacheHttpClient.createAsyncHttpClient(143) - 1 proxies selected. Type: DIRECT
+2020-04-08 17:12:59 INFO  ApacheHttpClient.<init>(94) - ApacheHttpClient was successfully instantiated.
+2020-04-08 17:13:01 INFO  ApacheHttpClient.testConnection(202) - responseCode = 200
+2020-04-08 17:13:01 INFO  ApacheHttpClient.testConnection(217) - result = true
+2020-04-08 17:13:02 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:02 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:02 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:02 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:02 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:04 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:04 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:04 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:04 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:04 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:04 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:04 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:04 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:04 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:04 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:05 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:05 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:05 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:05 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:05 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:05 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:05 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:05 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:05 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:05 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:06 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:06 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:06 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:06 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:06 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:06 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:06 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:06 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:06 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:07 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:07 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:07 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:07 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:07 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:07 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:07 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:07 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:08 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:08 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:08 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:08 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:08 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:08 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:08 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:08 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:08 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:09 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:09 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:09 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:09 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:09 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:09 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:09 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:09 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-08 17:13:10 INFO  ApacheHttpClient.refreshUserInfo(302) - responseCode = 200
+2020-04-08 17:13:10 INFO  ApacheHttpClient.refreshUserInfo(308) - User information received.
+2020-04-08 17:13:10 INFO  ApacheHttpClient.startGA(35) - GAService started.
+2020-04-08 17:13:10 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-04-08 17:13:21 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-08 17:13:37 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-08 17:14:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:15:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:16:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:17:17 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:18:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:19:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:20:11 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:21:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:22:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:23:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:24:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:25:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:26:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:27:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:28:11 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:29:11 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:30:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:31:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:32:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:33:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:33:32 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-08 17:33:32 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-08 17:33:32 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-08 17:33:34 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2020-04-08 17:34:13 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:35:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:36:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:37:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:38:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:39:11 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:40:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:41:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:42:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:43:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:44:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:45:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:46:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:47:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:48:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:49:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:50:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:51:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:52:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:53:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:54:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:55:13 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:56:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:57:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:58:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:59:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 17:59:12 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-08 17:59:12 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-08 18:00:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:01:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:02:17 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:03:25 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:03:58 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-08 18:03:59 INFO  ApacheHttpClient.resetTask(321) - responseCode = 200
+2020-04-08 18:03:59 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-08 18:03:59 INFO  ApacheHttpClient.getTaskTemplateInfo(350) - responseCode = 200
+2020-04-08 18:04:00 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-08 18:04:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:05:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:06:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:07:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:08:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:09:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:10:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:11:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:12:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:13:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:14:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:15:03 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-08 18:15:03 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-08 18:15:06 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-08 18:15:06 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-08 18:15:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:16:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:17:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:18:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:19:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:20:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:21:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:22:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:23:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:24:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:25:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:26:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:27:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:28:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:28:43 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-08 18:28:43 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-08 18:28:43 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-08 18:28:46 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2020-04-08 18:29:06 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-08 18:29:06 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-08 18:29:06 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2020-04-08 18:29:07 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-08 18:29:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:29:41 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-08 18:29:41 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-08 18:29:41 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-08 18:29:43 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2020-04-08 18:29:43 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-08 18:30:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:31:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:31:22 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-08 18:31:22 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 200
+2020-04-08 18:31:24 INFO  ApacheHttpClient.getTaskTemplateInfo(350) - responseCode = 200
+2020-04-08 18:31:30 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-08 18:31:31 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 200
+2020-04-08 18:32:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:33:17 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:34:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:35:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:36:11 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:37:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:38:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:39:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:40:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:41:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:42:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:43:10 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-08 18:43:36 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2020-04-08 18:43:36 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-08 18:43:36 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-09 17:04:11 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2020-04-09 17:04:11 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.38 ----------
+
+2020-04-09 17:04:11 INFO  ApacheHttpClient.createAsyncHttpClient(143) - 1 proxies selected. Type: DIRECT
+2020-04-09 17:04:11 INFO  ApacheHttpClient.<init>(94) - ApacheHttpClient was successfully instantiated.
+2020-04-09 17:04:11 INFO  ApacheHttpClient.testConnection(202) - responseCode = 200
+2020-04-09 17:04:11 INFO  ApacheHttpClient.testConnection(217) - result = true
+2020-04-09 17:04:14 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-09 17:04:14 INFO  ApacheHttpClient.refreshUserInfo(302) - responseCode = 200
+2020-04-09 17:04:14 INFO  ApacheHttpClient.refreshUserInfo(308) - User information received.
+2020-04-09 17:04:14 INFO  ApacheHttpClient.startGA(35) - GAService started.
+2020-04-09 17:04:14 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-04-09 17:04:24 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-09 17:05:14 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-09 17:05:53 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2020-04-09 17:05:53 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-10 18:31:35 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2020-04-10 18:31:35 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.38 ----------
+
+2020-04-10 18:31:35 INFO  ApacheHttpClient.createAsyncHttpClient(143) - 1 proxies selected. Type: DIRECT
+2020-04-10 18:31:35 INFO  ApacheHttpClient.<init>(94) - ApacheHttpClient was successfully instantiated.
+2020-04-10 18:31:36 INFO  ApacheHttpClient.testConnection(202) - responseCode = 200
+2020-04-10 18:31:36 INFO  ApacheHttpClient.testConnection(217) - result = true
+2020-04-10 18:31:37 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-10 18:31:37 INFO  ApacheHttpClient.refreshUserInfo(302) - responseCode = 200
+2020-04-10 18:31:37 INFO  ApacheHttpClient.refreshUserInfo(308) - User information received.
+2020-04-10 18:31:37 INFO  ApacheHttpClient.startGA(35) - GAService started.
+2020-04-10 18:31:37 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-04-10 18:31:46 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-10 18:32:27 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-10 18:32:27 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 200
+2020-04-10 18:32:36 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 200
+2020-04-10 18:32:37 INFO  ApacheHttpClient.getTaskTemplateInfo(350) - responseCode = 200
+2020-04-10 18:32:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:32:39 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-10 18:33:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:34:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:35:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:36:21 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-10 18:36:21 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-10 18:36:22 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-10 18:36:23 INFO  ApacheHttpClient.completed(28) - responseCode = 200
+2020-04-10 18:36:23 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-10 18:36:30 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-10 18:36:30 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 200
+2020-04-10 18:36:31 INFO  ApacheHttpClient.getTaskTemplateInfo(350) - responseCode = 200
+2020-04-10 18:36:32 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-10 18:36:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:37:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:38:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:39:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:40:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:41:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:42:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:43:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:44:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:45:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:46:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:47:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:48:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:49:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:50:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:51:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:52:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:53:38 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:54:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:55:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:56:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:57:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:58:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 18:59:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 19:00:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 19:01:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 19:02:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 19:03:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 19:04:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 19:05:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 19:06:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 19:07:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 19:08:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 19:09:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 19:10:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 19:11:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 19:12:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 19:13:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 19:14:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 19:15:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 19:16:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 19:17:29 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-10 19:17:30 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 200
+2020-04-10 19:17:35 INFO  ApacheHttpClient.getTaskTemplateInfo(350) - responseCode = 200
+2020-04-10 19:17:37 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+2020-04-10 19:17:58 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-10 19:17:58 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 200
+2020-04-10 19:18:01 INFO  ApacheHttpClient.getTaskTemplateInfo(350) - responseCode = 200
+2020-04-10 19:18:16 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-10 19:18:21 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2020-04-10 19:18:21 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-10 19:18:21 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-10 19:18:22 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-10 19:18:22 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
+2020-04-11 10:24:45 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2020-04-11 10:24:45 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.38 ----------
+
+2020-04-11 10:24:45 INFO  ApacheHttpClient.createAsyncHttpClient(143) - 1 proxies selected. Type: DIRECT
+2020-04-11 10:24:45 INFO  ApacheHttpClient.<init>(94) - ApacheHttpClient was successfully instantiated.
+2020-04-11 10:24:45 ERROR ApacheHttpClient.testConnection(213) - Error while checking the connection with the server 
+java.util.concurrent.ExecutionException: java.net.UnknownHostException: Этот хост неизвестен (javarush.ru)
+	at org.apache.http.concurrent.BasicFuture.getResult(BasicFuture.java:70)
+	at org.apache.http.concurrent.BasicFuture.get(BasicFuture.java:80)
+	at com.homework.plugin.client.ApacheHttpClient.getResponseCode(ApacheHttpClient.java:569)
+	at com.homework.plugin.client.ApacheHttpClient.testConnection(ApacheHttpClient.java:201)
+	at com.homework.plugin.client.RestApiClientFactory.<clinit>(RestApiClientFactory.java:19)
+	at com.homework.plugin.PluginTasksProjectComponent$1.projectOpened(PluginTasksProjectComponent.java:87)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl$1.projectOpened(ProjectManagerImpl.java:102)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at com.intellij.util.messages.impl.MessageBusImpl.invokeListener(MessageBusImpl.java:518)
+	at com.intellij.util.messages.impl.MessageBusConnectionImpl.deliverMessage(MessageBusConnectionImpl.java:138)
+	at com.intellij.util.messages.impl.MessageBusImpl.doPumpMessages(MessageBusImpl.java:438)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpWaitingBuses(MessageBusImpl.java:398)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:388)
+	at com.intellij.util.messages.impl.MessageBusImpl.sendMessage(MessageBusImpl.java:372)
+	at com.intellij.util.messages.impl.MessageBusImpl.lambda$createTopicHandler$1(MessageBusImpl.java:241)
+	at com.sun.proxy.$Proxy71.projectOpened(Unknown Source)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.fireProjectOpened(ProjectManagerImpl.java:845)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.lambda$doLoadProject$9(ProjectManagerImpl.java:453)
+	at com.intellij.openapi.application.TransactionGuardImpl.lambda$submitTransactionAndWait$2(TransactionGuardImpl.java:162)
+	at com.intellij.openapi.application.TransactionGuardImpl.runSyncTransaction(TransactionGuardImpl.java:83)
+	at com.intellij.openapi.application.TransactionGuardImpl.lambda$submitTransaction$1(TransactionGuardImpl.java:107)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.doRun(LaterInvocator.java:441)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.runNextEvent(LaterInvocator.java:424)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:407)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:776)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:746)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:908)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:781)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:424)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:687)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:423)
+	at com.intellij.ide.IdeEventQueue.pumpEventsForHierarchy(IdeEventQueue.java:965)
+	at com.intellij.openapi.progress.util.ProgressWindow.startBlocking(ProgressWindow.java:186)
+	at com.intellij.openapi.progress.util.ProgressWindow.startBlocking(ProgressWindow.java:172)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runProcessWithProgressSynchronously(ApplicationImpl.java:455)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcessWithProgressSynchronously(CoreProgressManager.java:453)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.runProcessWithProgressSynchronously(ProgressManagerImpl.java:82)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcessWithProgressSynchronously(CoreProgressManager.java:250)
+	at com.intellij.platform.ProjectUiFrameAllocator$run$1.run(ProjectFrameAllocator.kt:64)
+	at com.intellij.openapi.application.TransactionGuardImpl.runSyncTransaction(TransactionGuardImpl.java:83)
+	at com.intellij.openapi.application.TransactionGuardImpl.submitTransactionAndWait(TransactionGuardImpl.java:149)
+	at com.intellij.platform.ProjectUiFrameAllocator.run(ProjectFrameAllocator.kt:62)
+	at com.intellij.platform.PlatformProjectOpenProcessor.openExistingProject(PlatformProjectOpenProcessor.java:234)
+	at com.intellij.ide.RecentProjectsManagerBase.openProject(RecentProjectsManagerBase.kt:281)
+	at com.intellij.ide.RecentProjectsManagerBase.reopenLastProjectsOnStart(RecentProjectsManagerBase.kt:382)
+	at com.intellij.idea.IdeStarter$main$4.run(ApplicationLoader.kt:535)
+	at com.intellij.openapi.application.TransactionGuardImpl.runSyncTransaction(TransactionGuardImpl.java:83)
+	at com.intellij.openapi.application.TransactionGuardImpl.lambda$submitTransaction$1(TransactionGuardImpl.java:107)
+	at com.intellij.openapi.application.TransactionGuardImpl.submitTransaction(TransactionGuardImpl.java:116)
+	at com.intellij.openapi.application.TransactionGuard.submitTransaction(TransactionGuard.java:121)
+	at com.intellij.idea.IdeStarter.main(ApplicationLoader.kt:525)
+	at com.intellij.idea.ApplicationLoader$startApp$8$1.run(ApplicationLoader.kt:240)
+	at com.intellij.openapi.application.TransactionGuardImpl.performUserActivity(TransactionGuardImpl.java:193)
+	at com.intellij.idea.ApplicationLoader$startApp$8.run(ApplicationLoader.kt:239)
+	at java.base/java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:783)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:776)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:746)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:908)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:781)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:424)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:698)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:423)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+Caused by: java.net.UnknownHostException: Этот хост неизвестен (javarush.ru)
+	at java.base/java.net.Inet4AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:929)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1515)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:848)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.nio.conn.PoolingNHttpClientConnectionManager$InternalAddressResolver.resolveRemoteAddress(PoolingNHttpClientConnectionManager.java:609)
+	at org.apache.http.impl.nio.conn.PoolingNHttpClientConnectionManager$InternalAddressResolver.resolveRemoteAddress(PoolingNHttpClientConnectionManager.java:580)
+	at org.apache.http.nio.pool.AbstractNIOConnPool.processPendingRequest(AbstractNIOConnPool.java:427)
+	at org.apache.http.nio.pool.AbstractNIOConnPool.lease(AbstractNIOConnPool.java:276)
+	at org.apache.http.impl.nio.conn.PoolingNHttpClientConnectionManager.requestConnection(PoolingNHttpClientConnectionManager.java:266)
+	at org.apache.http.impl.nio.client.AbstractClientExchangeHandler.requestConnection(AbstractClientExchangeHandler.java:363)
+	at org.apache.http.impl.nio.client.DefaultClientExchangeHandlerImpl.start(DefaultClientExchangeHandlerImpl.java:125)
+	at org.apache.http.impl.nio.client.InternalHttpAsyncClient.execute(InternalHttpAsyncClient.java:141)
+	at org.apache.http.impl.nio.client.CloseableHttpAsyncClient.execute(CloseableHttpAsyncClient.java:75)
+	at org.apache.http.impl.nio.client.CloseableHttpAsyncClient.execute(CloseableHttpAsyncClient.java:108)
+	at com.homework.plugin.client.ApacheHttpClient.testConnection(ApacheHttpClient.java:200)
+	... 78 more
+2020-04-11 10:24:45 INFO  ApacheHttpClient.testConnection(217) - result = false
+2020-04-11 10:24:45 ERROR HttpsURLConnectionClient.<init>(78) - Error while getting the proxy login from HttpConfigurable.
+2020-04-11 10:24:45 ERROR HttpsURLConnectionClient.getServerAvailabilityStatus(722) - Error while checking server availability.
+java.net.UnknownHostException: javarush.ru
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403)
+	at java.base/java.net.Socket.connect(Socket.java:609)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:285)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:177)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:474)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:569)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:265)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:372)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1187)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1081)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:168)
+	at com.homework.plugin.client.HttpsURLConnectionClient.getServerAvailabilityStatus(HttpsURLConnectionClient.java:706)
+	at com.homework.plugin.PluginTasksProjectComponent$1.projectOpened(PluginTasksProjectComponent.java:89)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl$1.projectOpened(ProjectManagerImpl.java:102)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at com.intellij.util.messages.impl.MessageBusImpl.invokeListener(MessageBusImpl.java:518)
+	at com.intellij.util.messages.impl.MessageBusConnectionImpl.deliverMessage(MessageBusConnectionImpl.java:138)
+	at com.intellij.util.messages.impl.MessageBusImpl.doPumpMessages(MessageBusImpl.java:438)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpWaitingBuses(MessageBusImpl.java:398)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:388)
+	at com.intellij.util.messages.impl.MessageBusImpl.sendMessage(MessageBusImpl.java:372)
+	at com.intellij.util.messages.impl.MessageBusImpl.lambda$createTopicHandler$1(MessageBusImpl.java:241)
+	at com.sun.proxy.$Proxy71.projectOpened(Unknown Source)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.fireProjectOpened(ProjectManagerImpl.java:845)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.lambda$doLoadProject$9(ProjectManagerImpl.java:453)
+	at com.intellij.openapi.application.TransactionGuardImpl.lambda$submitTransactionAndWait$2(TransactionGuardImpl.java:162)
+	at com.intellij.openapi.application.TransactionGuardImpl.runSyncTransaction(TransactionGuardImpl.java:83)
+	at com.intellij.openapi.application.TransactionGuardImpl.lambda$submitTransaction$1(TransactionGuardImpl.java:107)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.doRun(LaterInvocator.java:441)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.runNextEvent(LaterInvocator.java:424)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:407)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:776)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:746)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:908)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:781)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:424)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:687)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:423)
+	at com.intellij.ide.IdeEventQueue.pumpEventsForHierarchy(IdeEventQueue.java:965)
+	at com.intellij.openapi.progress.util.ProgressWindow.startBlocking(ProgressWindow.java:186)
+	at com.intellij.openapi.progress.util.ProgressWindow.startBlocking(ProgressWindow.java:172)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runProcessWithProgressSynchronously(ApplicationImpl.java:455)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcessWithProgressSynchronously(CoreProgressManager.java:453)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.runProcessWithProgressSynchronously(ProgressManagerImpl.java:82)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcessWithProgressSynchronously(CoreProgressManager.java:250)
+	at com.intellij.platform.ProjectUiFrameAllocator$run$1.run(ProjectFrameAllocator.kt:64)
+	at com.intellij.openapi.application.TransactionGuardImpl.runSyncTransaction(TransactionGuardImpl.java:83)
+	at com.intellij.openapi.application.TransactionGuardImpl.submitTransactionAndWait(TransactionGuardImpl.java:149)
+	at com.intellij.platform.ProjectUiFrameAllocator.run(ProjectFrameAllocator.kt:62)
+	at com.intellij.platform.PlatformProjectOpenProcessor.openExistingProject(PlatformProjectOpenProcessor.java:234)
+	at com.intellij.ide.RecentProjectsManagerBase.openProject(RecentProjectsManagerBase.kt:281)
+	at com.intellij.ide.RecentProjectsManagerBase.reopenLastProjectsOnStart(RecentProjectsManagerBase.kt:382)
+	at com.intellij.idea.IdeStarter$main$4.run(ApplicationLoader.kt:535)
+	at com.intellij.openapi.application.TransactionGuardImpl.runSyncTransaction(TransactionGuardImpl.java:83)
+	at com.intellij.openapi.application.TransactionGuardImpl.lambda$submitTransaction$1(TransactionGuardImpl.java:107)
+	at com.intellij.openapi.application.TransactionGuardImpl.submitTransaction(TransactionGuardImpl.java:116)
+	at com.intellij.openapi.application.TransactionGuard.submitTransaction(TransactionGuard.java:121)
+	at com.intellij.idea.IdeStarter.main(ApplicationLoader.kt:525)
+	at com.intellij.idea.ApplicationLoader$startApp$8$1.run(ApplicationLoader.kt:240)
+	at com.intellij.openapi.application.TransactionGuardImpl.performUserActivity(TransactionGuardImpl.java:193)
+	at com.intellij.idea.ApplicationLoader$startApp$8.run(ApplicationLoader.kt:239)
+	at java.base/java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:783)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:776)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:746)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:908)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:781)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:424)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:698)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:423)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2020-04-11 10:24:49 ERROR HttpsURLConnectionClient.processExceptionGetWebResource(105) - (super) : Error while accessing the remote resource: https://javarush.ru/widget/pluginpages/com.javarush.task.task14.task1403/condition	Be sure the network is accessible and try again. : java.net.UnknownHostException
+2020-04-11 10:24:49 ERROR ConditionPanel.run(102) - HTML-content loading error.
+java.lang.NullPointerException
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:113)
+	at org.apache.commons.io.IOUtils.copy(IOUtils.java:2440)
+	at org.apache.commons.io.IOUtils.toString(IOUtils.java:1084)
+	at org.apache.commons.io.IOUtils.toString(IOUtils.java:1110)
+	at com.homework.plugin.panel.ConditionPanel$1.run(ConditionPanel.java:82)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$9(PlatformImpl.java:418)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:417)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:175)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-04-11 10:24:49 ERROR HttpsURLConnectionClient.processExceptionGetWebResource(105) - (super) : Error while accessing the remote resource: https://javarush.ru/widget/pluginpages/com.javarush.task.task14.task1402/condition	Be sure the network is accessible and try again. : java.net.UnknownHostException
+2020-04-11 10:24:49 ERROR ConditionPanel.run(102) - HTML-content loading error.
+java.lang.NullPointerException
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:113)
+	at org.apache.commons.io.IOUtils.copy(IOUtils.java:2440)
+	at org.apache.commons.io.IOUtils.toString(IOUtils.java:1084)
+	at org.apache.commons.io.IOUtils.toString(IOUtils.java:1110)
+	at com.homework.plugin.panel.ConditionPanel$1.run(ConditionPanel.java:82)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$9(PlatformImpl.java:418)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:417)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:175)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-04-11 10:25:25 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2020-04-14 14:36:27 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2020-04-14 14:36:27 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.38 ----------
+
+2020-04-14 14:36:27 INFO  ApacheHttpClient.createAsyncHttpClient(143) - 1 proxies selected. Type: DIRECT
+2020-04-14 14:36:27 INFO  ApacheHttpClient.<init>(94) - ApacheHttpClient was successfully instantiated.
+2020-04-14 14:36:33 INFO  ApacheHttpClient.testConnection(202) - responseCode = 200
+2020-04-14 14:36:33 INFO  ApacheHttpClient.testConnection(217) - result = true
+2020-04-14 14:36:39 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-14 14:36:39 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-14 14:36:39 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-14 14:36:39 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-14 14:36:39 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-14 14:36:39 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-14 14:36:39 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-14 14:36:39 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-14 14:36:39 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-14 14:36:40 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-14 14:36:40 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-14 14:36:40 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-14 14:36:40 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-14 14:36:40 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-14 14:36:40 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-14 14:36:40 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-14 14:36:40 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-14 14:36:40 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
+2020-04-14 14:36:41 INFO  ApacheHttpClient.refreshUserInfo(302) - responseCode = 200
+2020-04-14 14:36:41 INFO  ApacheHttpClient.refreshUserInfo(308) - User information received.
+2020-04-14 14:36:41 INFO  ApacheHttpClient.startGA(35) - GAService started.
+2020-04-14 14:36:41 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-04-14 14:36:58 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
+2020-04-14 14:36:58 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
