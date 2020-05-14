@@ -26,16 +26,24 @@ public class Solution {
         //start here - начни тут
         switch (args[0]) {
             case "-c":
-                create(args);
+                synchronized (allPeople) {
+                    create(args);
+                }
                 break;
             case "-u":
-                update(args);
+                synchronized (allPeople) {
+                    update(args);
+                }
                 break;
             case "-i":
-                read(args);
+                synchronized (allPeople) {
+                    read(args);
+                }
                 break;
             case "-d":
-                delete(args);
+                synchronized (allPeople) {
+                    delete(args);
+                }
                 break;
         }
     }
