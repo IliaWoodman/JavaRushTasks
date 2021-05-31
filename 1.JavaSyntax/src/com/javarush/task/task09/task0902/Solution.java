@@ -4,7 +4,7 @@ package com.javarush.task.task09.task0902;
 И снова StackTrace
 */
 
-import com.sun.org.apache.regexp.internal.RE;
+//import com.sun.org.apache.regexp.internal.RE;
 
 public class Solution {
     public static void main(String[] args) {

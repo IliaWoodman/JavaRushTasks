@@ -13,13 +13,13 @@ public class Solution {
 //        /Users/ilya.romanenko/Desktop/result1.txt
 //        /Users/ilya.romanenko/Desktop/result2.txt
 
-//        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-//        String path1 = reader.readLine();
-//        String path2 = reader.readLine();
-//        String path3 = reader.readLine();
-        try (FileInputStream inputStream = new FileInputStream("/Users/ilya.romanenko/Desktop/data.txt");
-             FileOutputStream outputStream1 = new FileOutputStream("/Users/ilya.romanenko/Desktop/result1.txt");
-             FileOutputStream outputStream2 = new FileOutputStream("/Users/ilya.romanenko/Desktop/result2.txt");
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        String path1 = reader.readLine();
+        String path2 = reader.readLine();
+        String path3 = reader.readLine();
+        try (FileInputStream inputStream = new FileInputStream(path1);
+             FileOutputStream outputStream1 = new FileOutputStream(path2);
+             FileOutputStream outputStream2 = new FileOutputStream(path3);
         ) {
             int count = inputStream.available();
             int counter = 0;

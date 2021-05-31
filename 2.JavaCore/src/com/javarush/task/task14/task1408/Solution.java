@@ -15,13 +15,13 @@ public class Solution {
 
         static Hen getHen(String country) {
             Hen hen = null;
-            if (country.equals("Ukraine")){
+            if (country.equals("Ukraine")) {
                 hen = new UkrainianHen();
-            }else if (country.equals("Russia")){
+            } else if (country.equals("Russia")) {
                 hen = new RussianHen();
-            }else if (country.equals("Moldova")){
+            } else if (country.equals("Moldova")) {
                 hen = new MoldovanHen();
-            }else if (country.equals("Belarus")){
+            } else if (country.equals("Belarus")) {
                 hen = new BelarusianHen();
             }
             return hen;
@@ -35,9 +35,6 @@ public class Solution {
         String MOLDOVA = "Moldova";
         String BELARUS = "Belarus";
     }*/
-
-
-
 
 
 }
