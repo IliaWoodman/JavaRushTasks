@@ -31968,3 +31968,18 @@ java.net.UnknownHostException: javarush.ru
 2021-05-31 23:01:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
 2021-05-31 23:01:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
 2021-05-31 23:01:06 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 22:27:03 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2021-10-11 22:27:03 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.53 ----------
+
+2021-10-11 22:27:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-10-11 22:27:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-10-11 22:27:04 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2021-10-11 22:27:04 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2021-10-11 22:27:04 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2021-10-11 22:27:04 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-10-11 22:27:18 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-10-11 22:27:19 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-10-11 22:27:26 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-10-11 22:27:26 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :/Users/ilya.romanenko/IdeaProjects/JavaRushTasks/2.JavaCore/src/com/javarush/task/task19/task1916
+2021-10-11 22:28:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-10-11 22:29:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
